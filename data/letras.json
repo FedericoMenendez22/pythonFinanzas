@@ -1,0 +1,22 @@
+{
+    "mercado" : {
+        "LELIQ" : { "precio" :  98.63, "capital" : 100.0000, "plazo" :   7 },
+        "I21N8" : { "precio" :  94.40, "capital" : 100.0000, "plazo" :  42 },
+        "LTPN8" : { "precio" : 103.00, "capital" : 110.6814, "plazo" :  51 },
+        "I19D8" : { "precio" :  90.25, "capital" : 100.0000, "plazo" :  70 },
+        "LTPD8" : { "precio" : 102.75, "capital" : 114.5642, "plazo" :  79 },
+        "LTPE9" : { "precio" : 101.90, "capital" : 118.5253, "plazo" : 113 },
+        "LTPF9" : { "precio" : 101.15, "capital" : 122.7838, "plazo" : 141 },
+        "LTPM9" : { "precio" :  98.00, "capital" : 123.1152, "plazo" : 170 },
+        "LTPS9" : { "precio" : 102.77, "capital" : 151.7697, "plazo" : 355 }
+    },
+
+    "portfolio" : {
+        "LTPN8" : 0.3,
+        "LTPD8" : 0.2,
+        "LTPE9" : 0.2,
+        "LTPF9" : 0.1,
+        "LTPM9" : 0.1,
+        "LTPS9" : 0.1
+    }
+}
